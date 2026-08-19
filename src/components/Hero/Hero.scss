@@ -1,0 +1,23 @@
+.Hero{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    border-image: url('@/assets/images/Hero.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    block-size: cover;
+    b
+    .Hero_title{
+        font-size: 50px;
+        color: orange;
+    }
+    .Hero_text{
+        font-size: 24px;
+        color: orange;
+        width: 500px;
+
+    }
+}
