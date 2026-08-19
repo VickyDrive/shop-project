@@ -1,8 +1,8 @@
 import logo from '@/assets/icons/logo.svg'
-import { getlang, t } from '@i18n'
+import { getLang, t } from '@/i18n'
 
 export function Header(){
-    const lang = getlang()
+    const lang = getLang()
     return /*html*/`
     <header class ="Header">
         <div class = "Logo">
