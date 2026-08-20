@@ -1,3 +1,2 @@
 export { Header } from "./Header";
-
-import "./Header.scss"
+import './Header.scss'

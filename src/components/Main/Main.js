@@ -1,4 +1,5 @@
-export function Main (page){
+export function Main(page) {
     return /*html*/`
-    <main class="Main">${page()}</main>`
+    <main class="Main">${page()}</main>
+    `
 }

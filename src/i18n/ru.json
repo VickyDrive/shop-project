@@ -1,10 +1,10 @@
 {
-    "nav.home":"Glavnaja stranica",
-    "nav.products":"Produkty",
-    "nav.about":"O nas",
-    "home.title1": "Dobro pozalovat!",
-    "home.title2": "Privet!",
-    "products.tittle1": "Stranica produktov",
-    "hero.title": "Uznaj nasi produkty",
-    "hero.text": "Najdi svojo"
+    "nav.home" : "Главная страница",
+    "nav.products" : "Товары",
+    "nav.about" : "О нас ",
+    "home.title1" : "Главная страница. Добро пожаловать!",
+    "home.title2" : "Привет",
+    "products.tittle1" : "Страница продуктов",
+    "hero.text": "Открой для себя наши товары, выбирай любимое и делай покупки легко, быстро и с удовольствием.",
+    "hero.title" : "Найди то, что подходит именно тебе"
 }

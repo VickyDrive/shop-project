@@ -1,3 +1,2 @@
 export { Footer } from "./Footer";
-
-import "./Footer.scss"
+import './Footer.scss'

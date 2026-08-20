@@ -1,10 +1,10 @@
 {
-    "nav.home":"Home",
-    "nav.products":"Products",
-    "nav.about":"About Us",
-    "home.title1": "Home page. Welcome",
-    "home.title2": "Hello!",
-    "products.title1": "Page Products",
-    "hero.title": "Find whats right for you",
-    "hero.text":"Discover our products"
+    "nav.home" : "Home",
+    "nav.products" : "Products",
+    "nav.about" : "About Us",
+    "home.title1" : "Home page. Welcome",
+    "home.title2" : "Hello",
+    "products.tittle1" : "Page Products",
+    "hero.text": "Discover our products, choose your favorites, and enjoy a simple, fast, and comfortable shopping experience.",
+    "hero.title" : "Find What’s Right for You"
 }
