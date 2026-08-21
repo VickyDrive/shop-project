@@ -1,3 +1,53 @@
-.Footer{
+.footer {
+    width: 100%;
+    background-color: rgb(46 71 126);
     display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footer #footer-connect {
+    font-family: "Playfair Display SC", serif;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 150%;
+    text-align: center;
+}
+.footer #row3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer #row3 #phone, .footer #row3 #email {
+    font-family: "Playfair Display SC", serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+}
+.footer #row3 #phone {
+    text-align: left;
+    display: flex;
+}
+.footer #row3 #email {
+    text-align: right;
+    display: flex;
+}
+.footer #row3 #social {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 25%;
+}
+.footer #footer-address {
+    font-family: "Playfair Display SC", serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+}
+.footer #footer-address img {
+    margin-right: 10px;
 }

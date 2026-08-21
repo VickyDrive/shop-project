@@ -1,54 +1,65 @@
-.Header{
-
+.Header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 5px;
+  background-color: whitesmoke;
+  .Logo {
+    a {
+      img {
+        width: 48px;
+        height: 48px;
+      }
+    }
+  }
+  nav {
     display: flex;
-    width:100%;
-    justify-content: space-between;
-    border-radius: 20px;
-    background-color: transparent;
-    // filter: blur(10px);
-    .logo{
-        a{
-            img{
-                width: 48px;
-                height: 48px;
-            }
-        }
+    align-items: center;
+    gap: 70px;
+    a {
+      color:black;
+      font-size: 24px;
+      font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      &:hover {
+        color: blue;
+        text-decoration: underline;
+      }
     }
-    nav{
-        display: flex;
-        gap: 15px;
-        align-items: center;
-        a{
-            color:white;
-            font-size: 24px;
-            &:hover{
-                color: blue;
-                text-decoration: underline;
-                
-            }
-
-        }
+  }
+  .Languages_list {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    .Lang_btn {
+      background-color: transparent;
+      border: transparent;
+      padding: 5px;
+      cursor: pointer;
+      color:black;
+      font-weight:  bold;
+      font-size: 18px;
+      &:hover {
+        color: blue;
+        text-decoration: underline;
+      }
     }
-    .Languages_list {
-        display: flex;
-        gap: 15px;
-        align-items:center;
-        background-image: url('@/assets/images/1.avif') ;
-        .Lang_btn{
-            background-color:transparent;
-            border: transparent;
-            padding: 5px;
-            cursor: pointer;
-            color:white;
-            font-size: 18px;
-            &:hover{
-                color: blue;
-                text-decoration: underline;
-                
-            }
-        }
+    .Active_lang {
+      color: orange;
     }
-}
-.Active_Lang{
-    color: orange;
+  }
+  .heart{
+    img {
+      width: 32px;
+      height: 32px;
+      margin-top: 15px;
+    }
+  }
+  .avatar{
+    img {
+      width: 48px;
+      height: 48px;
+      border-radius: 20px;
+      margin-top: 5px;
+    }
+  }
 }

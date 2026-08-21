@@ -1,4 +1,2 @@
-//export {Footer} from "./Footer";
-export {Main} from "./Main";
-//export {Header} from "./Header";
+export { Main } from "./Main";
 import "./Main.scss"
