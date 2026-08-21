@@ -1,15 +1,17 @@
 import en from "./en.json"
 import ru from "./ru.json"
 import cs from "./cs.json"
+import it from "./it.json"
 
 
 const translations = {
     en,
     ru,
-    cs
+    cs,
+    it
 }
 
-const DEFAULT_LANG = 'ru';
+const DEFAULT_LANG = 'en';
 const LS_KEY = "lang"
 
 export function setLang(lang) { 
@@ -19,7 +21,6 @@ export function setLang(lang) {
 export function getLang() { 
     return localStorage.getItem(LS_KEY) || DEFAULT_LANG
 }
-
 
 export function t(key) {
     const lang = getLang()

@@ -1,10 +1,12 @@
 {
-    "nav.home" : "Home1",
-    "nav.products" : "Products1",
-    "nav.about" : "About Us1",
-    "home.title1" : "Home page. Welcome1",
-    "home.title2" : "Hello1",
-    "products.tittle1" : "Stranka zbozi",
+    "nav.home" : "Domů",
+    "nav.lessonBuilder" : "Vytvorit lekcí",
+    "nav.myLessons" : "Moje lekce",
+    "nav.about" : "O nás",
+    "home.title1" : "Domovská stránka. Vítejte",
+    "home.title2" : "Ahoj",
+    "lessonBuilder.tittle1" : "Stránka zboží",
+    "myLessons.tittle1" : "Moje lekce",
     "hero.text": "Objevte naši nabídku, vyberte si své oblíbené produkty a užijte si jednoduché a pohodlné nakupování.",
     "hero.title" : "Najděte to pravé pro vás"
 }

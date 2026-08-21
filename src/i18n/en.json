@@ -1,10 +1,12 @@
 {
     "nav.home" : "Home",
-    "nav.products" : "Products",
+    "nav.lessonBuilder" : "Lesson Builder",
+    "nav.myLessons" : "My lessons",
     "nav.about" : "About Us",
     "home.title1" : "Home page. Welcome",
     "home.title2" : "Hello",
-    "products.tittle1" : "Page Products",
+    "lessonBuilder.tittle1" : "Page lessons",
+    "myLessons.tittle1" : "My Lessons",
     "hero.text": "Discover our products, choose your favorites, and enjoy a simple, fast, and comfortable shopping experience.",
     "hero.title" : "Find What’s Right for You"
 }
