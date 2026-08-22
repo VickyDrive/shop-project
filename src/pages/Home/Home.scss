@@ -1,6 +1,85 @@
 .Home_section1{
-    display: flex;
+    /*display: flex;*/
     width: 100%;
     padding: 20px;
     color: black;
+    * {
+        color: black;
+    }
+    h1 {
+        text-align: center;
+    }
+}
+#cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    div {
+        background: linear-gradient(135deg, #bc46f7 0%, #fac76d 100%);
+    color: #ffffff;
+    border: 1px solid #d43ca1;
+    padding: 12px 28px;
+    font-family: system-ui, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+        background-color: rgb(243, 141, 158);
+        border-radius: 10px;
+        padding: 10px;
+        span{
+            font-weight: bold;
+        }
+    }
+}
+#selector {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    div {
+        div {
+            label {
+                font-weight: bold;
+            }
+        }
+        select {
+            width: 150px;
+            height: 40px;
+            border-radius: 5px;
+            background: linear-gradient(to bottom, rgb(104, 159, 217) 0%, rgba(112, 165, 221, 0) 100%);
+        }
+    }
+}
+#createLessonBtn {
+    background: linear-gradient(135deg, #3e35b9 0%, #ae3ee7 100%);
+    color: #ffffff;
+    border: 1px solid #4c1d95;
+    border-radius: 15px;
+    padding: 12px 28px;
+    font-family: system-ui, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(30, 27, 75, 0.4);
+    transition: all 0.3s ease;
+}
+#build {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+#inspiration{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
+    div {
+        background-color: rgb(246, 224, 165);
+        border-radius: 15px;
+        padding: 5px;
+    }
 }
