@@ -3,10 +3,10 @@
     "nav.lessonBuilder" : "Lesson Builder",
     "nav.myLessons" : "My lessons",
     "nav.about" : "About Us",
-    "home.title1" : "Home page. Welcome",
-    "home.title2" : "Hello",
+    "home.title1" : "/",
+    "home.title2" : "/",
     "lessonBuilder.tittle1" : "Page lessons",
     "myLessons.tittle1" : "My Lessons",
-    "hero.text": "Discover our products, choose your favorites, and enjoy a simple, fast, and comfortable shopping experience.",
-    "hero.title" : "Find What’s Right for You"
+    "hero.text": "Create engaging lessons in minutes - not hours!",
+    "hero.title" : "Your lessons. Your style."
 }

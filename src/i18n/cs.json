@@ -3,10 +3,10 @@
     "nav.lessonBuilder" : "Vytvorit lekcí",
     "nav.myLessons" : "Moje lekce",
     "nav.about" : "O nás",
-    "home.title1" : "Domovská stránka. Vítejte",
-    "home.title2" : "Ahoj",
+    "home.title1" : "/",
+    "home.title2" : "/",
     "lessonBuilder.tittle1" : "Stránka zboží",
     "myLessons.tittle1" : "Moje lekce",
-    "hero.text": "Objevte naši nabídku, vyberte si své oblíbené produkty a užijte si jednoduché a pohodlné nakupování.",
-    "hero.title" : "Najděte to pravé pro vás"
+    "hero.text": "Vytvářej poutavé lekce během minut – ne hodin!",
+    "hero.title" : "Tvoje lekce. Tvůj styl."
 }

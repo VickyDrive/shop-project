@@ -3,10 +3,10 @@
     "nav.lessonBuilder" : "Crea Lezione",
     "nav.myLessons" : "Le Mie Lezioni",
     "nav.about" : "Chi Siamo",
-    "home.title1" : "Pagina iniziale. Benvenuti",
-    "home.title2" : "Ciao",
+    "home.title1" : "/",
+    "home.title2" : "/",
     "lessonBuilder.tittle1" : "Pagina dei prodotti",
     "myLessons.tittle1" : "Le mie lezioni",
-    "hero.text": "Scopri la nostra offerta, scegli i tuoi prodotti preferiti e goditi uno shopping semplice e conveniente.",
-    "hero.title" : "Trova quello che fa per te"
+    "hero.text": "Crea lezioni coinvolgenti in pochi minuti, non in ore!",
+    "hero.title" : "Le tue lezioni. Il tuo stile."
 }
